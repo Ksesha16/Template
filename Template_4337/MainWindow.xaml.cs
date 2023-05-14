@@ -33,7 +33,7 @@ namespace Template_4337
 
         private void Fedotova_4337_Click(object sender, RoutedEventArgs e)
         {
-
+            MessageBox.Show("Hello");
         }
     }
 }
