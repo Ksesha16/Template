@@ -34,5 +34,10 @@ namespace Template_4332
         {
 
         }
+
+        private void Spiridonov_4332_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

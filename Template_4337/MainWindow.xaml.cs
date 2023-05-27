@@ -34,6 +34,14 @@ namespace Template_4337
         private void Fedotova_4337_Click(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("Hello");
+            var myWindiw = new Fedotova_4337();
+            myWindiw.Show();
+            this.Hide();
+        }
+
+        private void Grigoreva_4337_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }
